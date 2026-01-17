@@ -10,6 +10,7 @@ A simple CRUD (Create, Read, Update, Delete) web application built using PHP and
  * CSS
  * JavaScript
 # Features
+* Resposive front-end design
 * Add new records
 * Edit existing records
 * Delete records
